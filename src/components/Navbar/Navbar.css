@@ -1,0 +1,20 @@
+.pizza-logo {
+	height: 70px;
+	margin-top: 3%;
+}
+.brand {
+	color: rgb(228, 52, 52);
+}
+.navlink-style {
+	font-size: large;
+	font-weight: 600;
+}
+.none {
+	visibility: hidden;
+}
+
+@media screen and (max-width: 992px) {
+	.none {
+		display: none;
+	}
+}

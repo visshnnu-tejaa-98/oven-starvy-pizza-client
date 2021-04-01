@@ -1,0 +1,33 @@
+.eating-pizza {
+	width: 23em;
+	margin-top: 5%;
+	text-align: center;
+}
+
+/* .bannar {
+	background-image: url('https://images.pexels.com/photos/3762075/pexels-photo-3762075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	width: 100vw;
+	position: absolute;
+}
+.bannar-overlay {
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 100vh;
+	width: 100vw;
+	position: absolute;
+} */
+.bannar-overlay-text {
+	color: black;
+	font-family: 'Berkshire Swash', cursive;
+	display: flex;
+	justify-content: center;
+	font-size: 3rem;
+}
+.button {
+	font-size: 2rem;
+
+	font-family: 'Berkshire Swash', cursive;
+}

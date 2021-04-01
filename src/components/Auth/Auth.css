@@ -1,0 +1,8 @@
+.form {
+	max-width: 30rem;
+}
+.card-shadow {
+	box-shadow: 3px 7px 11px -2px rgba(0, 0, 0, 0.89);
+	-webkit-box-shadow: 3px 7px 11px -2px rgba(0, 0, 0, 0.89);
+	-moz-box-shadow: 3px 7px 11px -2px rgba(0, 0, 0, 0.89);
+}
