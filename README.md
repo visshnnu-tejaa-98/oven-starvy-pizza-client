@@ -18,8 +18,8 @@ https://github.com/visshnnu-tejaa-98/oven-starvy-pizza-backend
 
 
 ### Admin Perspective
-1. Admin can able to login using secretly by adding <rootURL>/admin/login
-2. Admin can able to register his account using <rootURL>/admin/register
+1. Admin can able to login using secretly by adding <rootURL>/admin/login (https://oven-starvy-pizza.netlify.app/admin/login)
+2. Admin can able to register his account using <rootURL>/admin/register (https://oven-starvy-pizza.netlify.app/admin/register)
 3. After logging in, Admin can able to see what is the stock present in inventory
 4. He can able to add the pizzas 
 5. He can able to add fields to customise the pizza when stock is less
