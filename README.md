@@ -1,7 +1,7 @@
 # Oven Starvy Pizza App
 
 Here you can see preview:
-https://oven-starvy-pizza.netlify.app/admin/login
+https://oven-starvy-pizza.netlify.app/
 
 here is the backend code
 https://github.com/visshnnu-tejaa-98/oven-starvy-pizza-backend
